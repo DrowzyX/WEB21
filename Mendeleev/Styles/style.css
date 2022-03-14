@@ -1,0 +1,49 @@
+.classname_one{
+	word-spacing: 5px;
+	font-size: 25px;
+	text-transform: uppercase;
+}
+
+.classname_two{
+	width: 90px;
+}
+
+b{
+	font-size: 30px;
+}
+table {
+   border: 3px solid grey;
+   background-color: #FCEFC3;
+   border-spacing: 0px;
+   border-collapse: collapse;
+   width: 85%;
+}
+
+th {
+   border: 2px solid grey;
+}
+
+td {
+   border: 2px solid grey;
+   text-align:center;
+   height: 65px;
+
+}
+tr{
+   word-spacing: 50px
+}
+
+.classname_three{
+transform: rotate(-90deg);
+font-size: 25px;
+text-transform: uppercase;
+}
+
+.lit {
+font-size: 25px;
+text-align: left;
+padding-left: 30px;
+padding-right: 30px;
+padding-top: 30px;
+padding-bottom: 30px;
+}
